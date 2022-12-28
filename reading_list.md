@@ -46,13 +46,13 @@
 - [ ] crates/egui_glow/Cargo.toml
 - [x] crates/ecolor/CHANGELOG.md
 - [x] crates/ecolor/README.md
-- [ ] crates/ecolor/src/lib.rs
-- [ ] crates/ecolor/src/hsva_gamma.rs
-- [ ] crates/ecolor/src/hsva.rs
-- [ ] crates/ecolor/src/rgba.rs
-- [ ] crates/ecolor/src/cint_impl.rs
-- [ ] crates/ecolor/src/hex_color_macro.rs
-- [ ] crates/ecolor/src/color32.rs
+- [x] crates/ecolor/src/lib.rs
+- [x] crates/ecolor/src/hsva_gamma.rs
+- [x] crates/ecolor/src/hsva.rs
+- [x] crates/ecolor/src/rgba.rs
+- [x] crates/ecolor/src/cint_impl.rs
+- [x] crates/ecolor/src/hex_color_macro.rs
+- [x] crates/ecolor/src/color32.rs
 - [x] crates/ecolor/Cargo.toml
 - [ ] crates/eframe/CHANGELOG.md
 - [ ] crates/eframe/README.md
@@ -214,40 +214,32 @@
 - [ ] crates/egui/src/layout.rs
 - [ ] crates/egui/Cargo.toml
 - [x] crates/epaint/CHANGELOG.md
-- [ ] crates/epaint/fonts/emoji-icon-font-mit-license.txt
-- [ ] crates/epaint/fonts/NotoEmoji-Regular.ttf
-- [ ] crates/epaint/fonts/UFL.txt
-- [ ] crates/epaint/fonts/OFL.txt
-- [ ] crates/epaint/fonts/emoji-icon-font.ttf
-- [ ] crates/epaint/fonts/Hack-Regular.ttf
-- [ ] crates/epaint/fonts/Hack-Regular.txt
-- [ ] crates/epaint/fonts/Ubuntu-Light.ttf
-- [ ] crates/epaint/fonts/list_fonts.py
+- [x] crates/epaint/fonts/list_fonts.py
 - [ ] crates/epaint/benches/benchmark.rs
 - [x] crates/epaint/README.md
-- [ ] crates/epaint/src/lib.rs
+- [x] crates/epaint/src/lib.rs
+- [x] crates/epaint/src/image.rs
 - [ ] crates/epaint/src/textures.rs
 - [ ] crates/epaint/src/shape.rs
 - [ ] crates/epaint/src/mutex.rs
-- [ ] crates/epaint/src/image.rs
 - [ ] crates/epaint/src/stroke.rs
+- [ ] crates/epaint/src/mesh.rs
+- [ ] crates/epaint/src/stats.rs
+- [ ] crates/epaint/src/bezier.rs
+- [ ] crates/epaint/src/tessellator.rs
+- [ ] crates/epaint/src/shape_transform.rs
+- [ ] crates/epaint/src/shadow.rs
+- [ ] crates/epaint/src/texture_atlas.rs
+- [ ] crates/epaint/src/texture_handle.rs
 - [ ] crates/epaint/src/text/cursor.rs
 - [ ] crates/epaint/src/text/mod.rs
 - [ ] crates/epaint/src/text/text_layout.rs
 - [ ] crates/epaint/src/text/fonts.rs
 - [ ] crates/epaint/src/text/font.rs
 - [ ] crates/epaint/src/text/text_layout_types.rs
-- [ ] crates/epaint/src/mesh.rs
-- [ ] crates/epaint/src/texture_atlas.rs
-- [ ] crates/epaint/src/texture_handle.rs
 - [ ] crates/epaint/src/util/ordered_float.rs
 - [ ] crates/epaint/src/util/mod.rs
-- [ ] crates/epaint/src/stats.rs
-- [ ] crates/epaint/src/bezier.rs
-- [ ] crates/epaint/src/tessellator.rs
-- [ ] crates/epaint/src/shape_transform.rs
-- [ ] crates/epaint/src/shadow.rs
-- [ ] crates/epaint/Cargo.toml
+- [x] crates/epaint/Cargo.toml
 - [ ] examples/puffin_profiler/screenshot.png
 - [ ] examples/puffin_profiler/README.md
 - [ ] examples/puffin_profiler/src/main.rs
