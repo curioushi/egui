@@ -2,5 +2,6 @@
 **/target_ra
 /.*.json
 /.vscode
+/.idea
 /media/*
 .DS_Store

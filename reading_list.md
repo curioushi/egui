@@ -219,18 +219,18 @@
 - [x] crates/epaint/README.md
 - [x] crates/epaint/src/lib.rs
 - [x] crates/epaint/src/image.rs
-- [ ] crates/epaint/src/textures.rs
+- [x] crates/epaint/src/textures.rs
 - [ ] crates/epaint/src/shape.rs
-- [ ] crates/epaint/src/mutex.rs
-- [ ] crates/epaint/src/stroke.rs
-- [ ] crates/epaint/src/mesh.rs
+- [x] crates/epaint/src/mutex.rs
+- [x] crates/epaint/src/stroke.rs
+- [x] crates/epaint/src/mesh.rs
 - [ ] crates/epaint/src/stats.rs
 - [ ] crates/epaint/src/bezier.rs
 - [ ] crates/epaint/src/tessellator.rs
-- [ ] crates/epaint/src/shape_transform.rs
+- [x] crates/epaint/src/shape_transform.rs
 - [ ] crates/epaint/src/shadow.rs
-- [ ] crates/epaint/src/texture_atlas.rs
-- [ ] crates/epaint/src/texture_handle.rs
+- [x] crates/epaint/src/texture_atlas.rs
+- [x] crates/epaint/src/texture_handle.rs
 - [ ] crates/epaint/src/text/cursor.rs
 - [ ] crates/epaint/src/text/mod.rs
 - [ ] crates/epaint/src/text/text_layout.rs
