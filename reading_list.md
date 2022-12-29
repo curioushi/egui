@@ -231,8 +231,8 @@
 - [ ] crates/epaint/src/shadow.rs
 - [x] crates/epaint/src/texture_atlas.rs
 - [x] crates/epaint/src/texture_handle.rs
-- [ ] crates/epaint/src/text/cursor.rs
-- [ ] crates/epaint/src/text/mod.rs
+- [x] crates/epaint/src/text/cursor.rs
+- [x] crates/epaint/src/text/mod.rs
 - [ ] crates/epaint/src/text/text_layout.rs
 - [ ] crates/epaint/src/text/fonts.rs
 - [ ] crates/epaint/src/text/font.rs
